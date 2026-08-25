@@ -1,24 +1,4 @@
 {
-  "version": {
-    "latestVersionName": "1.1.5",
-    "latestVersionCode": 115,
-    "downloadUrl": "https://example.com/DeviceManager_v1.2.0.apk",
-    "releaseDate": "2026-08-20 10:30:00",
-    "releaseNotes": "更新内容"
-  },
-  "ticker": "🎯 加入QQ群：1106174303，获取更多信息",
-  "announcements": [
-    {
-      "type": "公告",
-      "title": "公告系统上线",
-      "content": "<h2>📢 公告系统上线</h2><p>欢迎使用全新的公告系统！</p><p>现在，主页顶部公告栏支持<strong>滚动信息展示</strong>，后续的功能更新、使用说明、活动通知和重要提醒都会统一在这里发布，方便快速查看最新动态。</p><h3>✨ 功能说明</h3><ul><li>📌 <strong>顶部滚动展示</strong><br>重要公告会在主页顶部滚动显示，帮助用户及时获取最新消息。</li><li>📖 <strong>查看完整内容</strong><br>点击公告即可进入详情页面，查看完整公告信息。</li><li>🔔 <strong>集中发布提醒</strong><br>后续版本更新、功能说明及重要通知将通过公告栏统一展示。</li></ul><p>感谢您的支持与使用！</p>",
-      "publishedAt": "2026-08-22",
-      "pinned": true
-    },
-    {
-      "title": "启源A06 源Plus交流群",
-      "content": "<h2>📢 启源 A06 源 Plus 交流群开放</h2><p>为了方便用户交流、分享使用体验及获取最新资讯，现新增启源 A06 源 Plus 交流群。</p><h3>💬 加入交流群</h3><ul><li>🐧 <strong>QQ群：1106174303</strong></li><li>🤝 欢迎加入群聊，与其他用户交流使用心得、反馈问题、分享经验。</li></ul><p>期待与大家一起交流，共同完善使用体验！</p>",
-      "publishedAt": "2026-08-25"
-    }
-  ]
+  "baseUrl": "9255297EABA2E7CA31F25A731DD45B8DE63BAAC6BCBE621606B338DF7792DB42620D3A74ED8E08BD47A8C1DD916CEBAF31CAF1349608BC282509CEE29809F6694082B6AEFF48A1851B4CE3CF7E6ECC9D3CE76CAADAD2CF614D414761356FBE78",
+  "token": "69824963604FEAD22DEC731944FB9732EAB3B9A583721286BF819B809D6F0CE53CE76CAADAD2CF614D414761356FBE78"
 }
